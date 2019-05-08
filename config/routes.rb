@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-get’lunch/go’
+    get'lunch/go'
 end

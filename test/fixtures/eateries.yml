@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  adress: 
+  tel: 
+  regular_holiday: 
+  open: 
+  close: MyString
+
+two:
+  name: 
+  adress: 
+  tel: 
+  regular_holiday: 
+  open: 
+  close: MyString

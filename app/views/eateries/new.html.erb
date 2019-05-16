@@ -1,0 +1,6 @@
+<%= form_with model: Eatery.new, url: {action: :create}, local: true, do |f| %>
+	<%= f.label :name %>
+	<%= f.text_field :name, id: ‘eatery_name’ %>
+	<%= f.submit %>
+<% end %>
+
